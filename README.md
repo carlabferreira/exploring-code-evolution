@@ -81,9 +81,10 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/huggingface/transformers
+2. Gráfico selecionado: ![alt text](image.png)
+3. Explicação: O repositório "Transformers" do HuggingFace oferece modelos pré-treinados para tarefas de aprendizado de máquina para diferentes contextos (como texto, audio e visão), integrando as bibliotecas Jax, PyTorch e TensorFlow.
+O gráfico acima apresenta a evolução no número de definições de classes e funções de 2020 a 2025. A partir das informações é possível observar como a quantidade de funções aumentou de forma consideravel, de 2.369 (2020) para 52.749 (2020), enquanto a quantidade de classes se manteve menor, de 521 (2020) para 13.458 (2025). Esse comportamento faz sentido visto que para cada nova classe teremos n funções. Além disso, a quantidade de funções ao decorrer dos anos deve aumentar de forma mais acelerada devido as novas funcionalidades adicionadas.
 
 
 
